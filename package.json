@@ -1,0 +1,22 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayatullah-ayat/travel-site.git"
+  },
+  "author": "ayatullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayatullah-ayat/travel-site/issues"
+  },
+  "homepage": "https://github.com/ayatullah-ayat/travel-site#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
