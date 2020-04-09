@@ -14,3 +14,9 @@
         @mixin-content;
     }
 }
+
+@define-mixin clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
