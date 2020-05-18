@@ -2,7 +2,7 @@
     padding: 2.9rem 0;
 
     @mixin atSmall {
-        padding: 4.5rem 0;
+        padding: 4.3rem 0;
     }
 
     &--blue {
