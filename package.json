@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ayatullah-ayat/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "postcss-mixins": "^6.2.3"
   },
   "devDependencies": {
